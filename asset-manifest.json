@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AgriFuture/static/css/main.f77a8b34.css",
+    "main.js": "/AgriFuture/static/js/main.9207cb6b.js",
+    "index.html": "/AgriFuture/index.html",
+    "main.f77a8b34.css.map": "/AgriFuture/static/css/main.f77a8b34.css.map",
+    "main.9207cb6b.js.map": "/AgriFuture/static/js/main.9207cb6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f77a8b34.css",
+    "static/js/main.9207cb6b.js"
+  ]
+}
